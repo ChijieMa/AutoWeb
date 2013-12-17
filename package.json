@@ -1,0 +1,18 @@
+{
+    "name": "autoweb",
+    "version": "0.0.4",
+    "author": "dxhbiz",
+    "description": "http mvc框架",
+    "dependencies": {
+        "ejs": "*",
+        "mime": "*",
+        "orm": "*"
+    },
+    "main": "./lib/autoWeb",
+    "homepage" : "https://github.com/dxhbiz/AutoWeb",
+    "keywords" : [
+	"web",
+	"http",
+	"mvc"
+    ]
+}
